@@ -1,3 +1,8 @@
+/*
+ * Source: Computer Systems: A Programmer's Perspective by Randal Bryant and
+ *         David O'Hallaron, Carnegie Mellon University
+ */
+
 /* $begin csapp.c */
 #include "csapp.h"
 
